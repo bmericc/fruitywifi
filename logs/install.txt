@@ -1,0 +1,578 @@
+installing Kismet...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+libncurses5-dev is already the newest version (6.4-4).
+The following package was automatically installed and is no longer required:
+  libcamera0.1
+Use 'sudo apt autoremove' to remove it.
+0 upgraded, 0 newly installed, 0 to remove and 1 not upgraded.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+libpcap-dev is already the newest version (1.10.3-1).
+The following package was automatically installed and is no longer required:
+  libcamera0.1
+Use 'sudo apt autoremove' to remove it.
+0 upgraded, 0 newly installed, 0 to remove and 1 not upgraded.
+kismet-2016-07-R1/
+kismet-2016-07-R1/manuf.h
+kismet-2016-07-R1/gpsserial.h
+kismet-2016-07-R1/Makefile.in
+kismet-2016-07-R1/kis_panel_windows.cc
+kismet-2016-07-R1/restricted-plugin-ptw/
+kismet-2016-07-R1/restricted-plugin-ptw/aircrack-ng.h
+kismet-2016-07-R1/restricted-plugin-ptw/aircrack-ptw2-lib.h
+kismet-2016-07-R1/restricted-plugin-ptw/Makefile
+kismet-2016-07-R1/restricted-plugin-ptw/aircrack-crypto.cc
+kismet-2016-07-R1/restricted-plugin-ptw/aircrack-crypto.h
+kismet-2016-07-R1/restricted-plugin-ptw/aircrack-ptw2-lib.cc
+kismet-2016-07-R1/restricted-plugin-ptw/aircrack-kismet.cc
+kismet-2016-07-R1/restricted-plugin-ptw/aircrack-crctable.h
+kismet-2016-07-R1/restricted-plugin-ptw/README
+kismet-2016-07-R1/packetsourcetracker.cc
+kismet-2016-07-R1/packetdissectors.cc
+kismet-2016-07-R1/configfile.h
+kismet-2016-07-R1/netracker.h
+kismet-2016-07-R1/kis_panel_windows.h
+kismet-2016-07-R1/dumpfile_nettxt.cc
+kismet-2016-07-R1/serialclient.h
+kismet-2016-07-R1/local_ieee80211_radiotap.h
+kismet-2016-07-R1/netframework.cc
+kismet-2016-07-R1/getopt.cc
+kismet-2016-07-R1/channeltracker.h
+kismet-2016-07-R1/config.guess
+kismet-2016-07-R1/endian_magic.h
+kismet-2016-07-R1/kis_panel_network.cc
+kismet-2016-07-R1/kis_panel_frontend.cc
+kismet-2016-07-R1/ifcontrol.cc
+kismet-2016-07-R1/kis_pktproto.h
+kismet-2016-07-R1/netframework.h
+kismet-2016-07-R1/kis_clinetframe.cc
+kismet-2016-07-R1/kis_panel_sort.h
+kismet-2016-07-R1/packetchain.cc
+kismet-2016-07-R1/gpsfixed.h
+kismet-2016-07-R1/dumpfile_gpsxml.h
+kismet-2016-07-R1/serialclient.cc
+kismet-2016-07-R1/gpscore.h
+kismet-2016-07-R1/statealert.cc
+kismet-2016-07-R1/uuid.h
+kismet-2016-07-R1/manuf.cc
+kismet-2016-07-R1/config.sub
+kismet-2016-07-R1/timetracker.h
+kismet-2016-07-R1/dumpfile_nettxt.h
+kismet-2016-07-R1/kis_clinetframe.h
+kismet-2016-07-R1/packetsource_airpcap.h
+kismet-2016-07-R1/kis_panel_preferences.cc
+kismet-2016-07-R1/nl80211.h
+kismet-2016-07-R1/clinetframework.cc
+kismet-2016-07-R1/messagebus.cc
+kismet-2016-07-R1/text_cliframe.h
+kismet-2016-07-R1/kis_ppi.h
+kismet-2016-07-R1/plugin-syslog/
+kismet-2016-07-R1/plugin-syslog/Makefile
+kismet-2016-07-R1/plugin-syslog/README
+kismet-2016-07-R1/plugin-syslog/kismet-syslog.cc
+kismet-2016-07-R1/dumpfile_tuntap.h
+kismet-2016-07-R1/config.h.in
+kismet-2016-07-R1/packetsource_bsdrt.cc
+kismet-2016-07-R1/man/
+kismet-2016-07-R1/man/kismet_drone.1
+kismet-2016-07-R1/man/gpsmap.1
+kismet-2016-07-R1/man/kismet_drone.conf.5
+kismet-2016-07-R1/man/kismet.1
+kismet-2016-07-R1/man/kismet.conf.5
+kismet-2016-07-R1/man/kismet_ui.conf.5
+kismet-2016-07-R1/packetsource_pcap.cc
+kismet-2016-07-R1/kismet_json.cc
+kismet-2016-07-R1/dumpfile_tuntap.cc
+kismet-2016-07-R1/packetsourcetracker.h
+kismet-2016-07-R1/configfile.cc
+kismet-2016-07-R1/packetsource_wext.h
+kismet-2016-07-R1/scripts/
+kismet-2016-07-R1/scripts/gpsmap-helper-earthamaps
+kismet-2016-07-R1/scripts/kismet.in
+kismet-2016-07-R1/nl80211_control.h
+kismet-2016-07-R1/pollable.h
+kismet-2016-07-R1/alertracker.cc
+kismet-2016-07-R1/packet_ieee80211.h
+kismet-2016-07-R1/kis_panel_details.h
+kismet-2016-07-R1/patches/
+kismet-2016-07-R1/patches/linux-tuntapsetlink-r02-netdev.diff
+kismet-2016-07-R1/patches/README.patches
+kismet-2016-07-R1/README.appletv
+kismet-2016-07-R1/plugintracker.h
+kismet-2016-07-R1/kismet_client.cc
+kismet-2016-07-R1/tcpclient.h
+kismet-2016-07-R1/kis_panel_details.cc
+kismet-2016-07-R1/dumpfile_pcap.cc
+kismet-2016-07-R1/dumpfile_netxml.cc
+kismet-2016-07-R1/tcpclient.cc
+kismet-2016-07-R1/tcpdump-extract.h
+kismet-2016-07-R1/soundcontrol.h
+kismet-2016-07-R1/dumpfile_alert.cc
+kismet-2016-07-R1/kis_panel_network.h
+kismet-2016-07-R1/devicetracker.cc
+kismet-2016-07-R1/kismet_drone.cc
+kismet-2016-07-R1/wav/
+kismet-2016-07-R1/wav/alert.wav
+kismet-2016-07-R1/wav/gpslock.wav
+kismet-2016-07-R1/wav/gpslost.wav
+kismet-2016-07-R1/wav/new.wav
+kismet-2016-07-R1/wav/packet.wav
+kismet-2016-07-R1/wav/README
+kismet-2016-07-R1/cygwin_utils.cc
+kismet-2016-07-R1/madwifing_control.cc
+kismet-2016-07-R1/packet.h
+kismet-2016-07-R1/nl80211_control.cc
+kismet-2016-07-R1/disable-plugin-dot15d4/
+kismet-2016-07-R1/disable-plugin-dot15d4/packet_dot15d4.cc
+kismet-2016-07-R1/disable-plugin-dot15d4/packetsource_raven.h
+kismet-2016-07-R1/disable-plugin-dot15d4/Makefile
+kismet-2016-07-R1/disable-plugin-dot15d4/packetsource_raven.cc
+kismet-2016-07-R1/disable-plugin-dot15d4/packet_dot15d4_types.cc
+kismet-2016-07-R1/disable-plugin-dot15d4/tracker_dot15d4.cc
+kismet-2016-07-R1/disable-plugin-dot15d4/kismet_dot15d4.cc
+kismet-2016-07-R1/disable-plugin-dot15d4/packetsource_serialdev.cc
+kismet-2016-07-R1/disable-plugin-dot15d4/packet_dot15d4.h
+kismet-2016-07-R1/disable-plugin-dot15d4/tracker_dot15d4.h
+kismet-2016-07-R1/disable-plugin-dot15d4/README
+kismet-2016-07-R1/disable-plugin-dot15d4/packetsource_serialdev.h
+kismet-2016-07-R1/gpsserial.cc
+kismet-2016-07-R1/getopt.h
+kismet-2016-07-R1/plugin-spectools/
+kismet-2016-07-R1/plugin-spectools/Makefile
+kismet-2016-07-R1/plugin-spectools/spectool_netclient.cc
+kismet-2016-07-R1/plugin-spectools/spectool_netclient.h
+kismet-2016-07-R1/plugin-spectools/spectools_ui.cc
+kismet-2016-07-R1/plugin-spectools/README
+kismet-2016-07-R1/plugin-spectools/spectool_kismet.cc
+kismet-2016-07-R1/unixdomainserver.cc
+kismet-2016-07-R1/packetsource.h
+kismet-2016-07-R1/dumpfile_pcap.h
+kismet-2016-07-R1/kismap/
+kismet-2016-07-R1/kismap/kismap.py
+kismet-2016-07-R1/kismap/kismap.conf
+kismet-2016-07-R1/kismap/README
+kismet-2016-07-R1/plugintracker.cc
+kismet-2016-07-R1/battery.h
+kismet-2016-07-R1/filtercore.cc
+kismet-2016-07-R1/gpswrapper.cc
+kismet-2016-07-R1/kis_droneframe.cc
+kismet-2016-07-R1/ringbuf.cc
+kismet-2016-07-R1/filtercore.h
+kismet-2016-07-R1/kismet.spec
+kismet-2016-07-R1/kis_panel_frontend.h
+kismet-2016-07-R1/cygwin_utils.h
+kismet-2016-07-R1/channeltracker.cc
+kismet-2016-07-R1/darwin_control_wrapper.h
+kismet-2016-07-R1/darwin_control_wrapper.m
+kismet-2016-07-R1/packetsource_ipwlive.cc
+kismet-2016-07-R1/packetdissectors.h
+kismet-2016-07-R1/packetsource_macusb.h
+kismet-2016-07-R1/kismet_json.h
+kismet-2016-07-R1/kismet_server.cc
+kismet-2016-07-R1/m4/
+kismet-2016-07-R1/m4/ax_pthread.m4
+kismet-2016-07-R1/psutils.cc
+kismet-2016-07-R1/install-sh
+kismet-2016-07-R1/netracker.cc
+kismet-2016-07-R1/dumpfile_alert.h
+kismet-2016-07-R1/debian/
+kismet-2016-07-R1/debian/kismet.postrm
+kismet-2016-07-R1/debian/source/
+kismet-2016-07-R1/debian/source/format
+kismet-2016-07-R1/debian/kismet.config
+kismet-2016-07-R1/debian/kismet.templates
+kismet-2016-07-R1/debian/kismet-plugins-restricted.install
+kismet-2016-07-R1/debian/docs
+kismet-2016-07-R1/debian/kismet.postinst
+kismet-2016-07-R1/debian/README.Debian
+kismet-2016-07-R1/debian/copyright
+kismet-2016-07-R1/debian/README.source
+kismet-2016-07-R1/debian/kismet.install
+kismet-2016-07-R1/debian/README
+kismet-2016-07-R1/debian/changelog
+kismet-2016-07-R1/debian/control
+kismet-2016-07-R1/debian/compat
+kismet-2016-07-R1/debian/kismet.manpages
+kismet-2016-07-R1/debian/rules
+kismet-2016-07-R1/dumpfile_netxml.h
+kismet-2016-07-R1/kis_droneframe.h
+kismet-2016-07-R1/gpscore.cc
+kismet-2016-07-R1/docs/
+kismet-2016-07-R1/docs/DEVEL.client
+kismet-2016-07-R1/docs/README.newcore
+kismet-2016-07-R1/docs/devel-wiki-docs/
+kismet-2016-07-R1/docs/devel-wiki-docs/tags
+kismet-2016-07-R1/docs/devel-wiki-docs/AlertTracker.wiki
+kismet-2016-07-R1/docs/devel-wiki-docs/IndeX.wiki
+kismet-2016-07-R1/docs/devel-wiki-docs/PacketChain.wiki
+kismet-2016-07-R1/darwin_wificontrol.m
+kismet-2016-07-R1/globalregistry.h
+kismet-2016-07-R1/ruby/
+kismet-2016-07-R1/ruby/kismet_list.rb
+kismet-2016-07-R1/ruby/kismet_shootout.rb
+kismet-2016-07-R1/ruby/kismet_addsource.rb
+kismet-2016-07-R1/ruby/kismet_alert_syslog.rb
+kismet-2016-07-R1/ruby/kismet_sql.rb
+kismet-2016-07-R1/ruby/kismet.rb
+kismet-2016-07-R1/util.h
+kismet-2016-07-R1/tcpserver.h
+kismet-2016-07-R1/globalregistry.cc
+kismet-2016-07-R1/packetsource_wext.cc
+kismet-2016-07-R1/RELEASENOTES.txt
+kismet-2016-07-R1/madwifing_control.h
+kismet-2016-07-R1/ringbuf.h
+kismet-2016-07-R1/packetsource_macusb.cc
+kismet-2016-07-R1/popenclient.h
+kismet-2016-07-R1/packetsource_darwin.h
+kismet-2016-07-R1/packetsource_ipwlive.h
+kismet-2016-07-R1/popenclient.cc
+kismet-2016-07-R1/iwcontrol.h
+kismet-2016-07-R1/devicetracker.h
+kismet-2016-07-R1/clinetframework.h
+kismet-2016-07-R1/client-plugin-example/
+kismet-2016-07-R1/client-plugin-example/Makefile
+kismet-2016-07-R1/client-plugin-example/TIMESTAMP
+kismet-2016-07-R1/client-plugin-example/kcliplug.cc
+kismet-2016-07-R1/ipc_remote.h
+kismet-2016-07-R1/messagebus.h
+kismet-2016-07-R1/CHANGELOG
+kismet-2016-07-R1/configure.ac
+kismet-2016-07-R1/kis_netframe.cc
+kismet-2016-07-R1/drone_kisnetframe.cc
+kismet-2016-07-R1/iwcontrol.cc
+kismet-2016-07-R1/alertracker.h
+kismet-2016-07-R1/packetsource_pcap.h
+kismet-2016-07-R1/plugin-alertsyslog/
+kismet-2016-07-R1/plugin-alertsyslog/Makefile
+kismet-2016-07-R1/plugin-alertsyslog/README
+kismet-2016-07-R1/plugin-alertsyslog/alertsyslog.cc
+kismet-2016-07-R1/text_cliframe.cc
+kismet-2016-07-R1/ipc_remote.cc
+kismet-2016-07-R1/config.h.bot
+kismet-2016-07-R1/packetsource_darwin.cc
+kismet-2016-07-R1/dumpfile_string.cc
+kismet-2016-07-R1/packetsignatures.h
+kismet-2016-07-R1/apple80211.h
+kismet-2016-07-R1/kismet_server.h
+kismet-2016-07-R1/gpsdclient.h
+kismet-2016-07-R1/conf/
+kismet-2016-07-R1/conf/kismet_drone.conf
+kismet-2016-07-R1/conf/kismet.conf.in
+kismet-2016-07-R1/packetsource_drone.h
+kismet-2016-07-R1/battery.cc
+kismet-2016-07-R1/timetracker.cc
+kismet-2016-07-R1/stamp-h.in
+kismet-2016-07-R1/darwin_wificontrol.h
+kismet-2016-07-R1/dumpfile.cc
+kismet-2016-07-R1/README.win32
+kismet-2016-07-R1/extra/
+kismet-2016-07-R1/extra/Makefile.in
+kismet-2016-07-R1/extra/kismet-3.1.0.dtd
+kismet-2016-07-R1/extra/kismet-gps-1.0.dtd
+kismet-2016-07-R1/extra/gpsxml-sanitize.cc
+kismet-2016-07-R1/extra/kismet-2.9.1.dtd
+kismet-2016-07-R1/extra/kismet-1.5.dtd
+kismet-2016-07-R1/extra/kismet-1.6.dtd
+kismet-2016-07-R1/extra/kismet-1.3.dtd
+kismet-2016-07-R1/extra/kismet-1.0.xsd
+kismet-2016-07-R1/extra/kismet-gps-2.9.1.dtd
+kismet-2016-07-R1/extra/old/
+kismet-2016-07-R1/extra/old/ieee-manuf-tr.sh
+kismet-2016-07-R1/extra/old/kismetcsv.sql
+kismet-2016-07-R1/extra/old/cwgd2gpsdrive.sh
+kismet-2016-07-R1/extra/old/listchan.pl
+kismet-2016-07-R1/extra/old/kismet2xml.cc
+kismet-2016-07-R1/extra/old/manuf_update.sh
+kismet-2016-07-R1/extra/old/gpsdrive-1.32-heading.patch
+kismet-2016-07-R1/extra/old/multi-gpsmap.sh
+kismet-2016-07-R1/extra/kismet2cwgd.cc
+kismet-2016-07-R1/extra/kismet-1.6.2.dtd
+kismet-2016-07-R1/extra/kismet-1.4.dtd
+kismet-2016-07-R1/extra/kismet-1.6.1.dtd
+kismet-2016-07-R1/gpsdclient.cc
+kismet-2016-07-R1/macaddr.h
+kismet-2016-07-R1/statealert.h
+kismet-2016-07-R1/packetsource_drone.cc
+kismet-2016-07-R1/finitestate.cc
+kismet-2016-07-R1/finitestate.h
+kismet-2016-07-R1/README
+kismet-2016-07-R1/dumpfile.h
+kismet-2016-07-R1/unixdomainserver.h
+kismet-2016-07-R1/kis_panel_widgets.h
+kismet-2016-07-R1/phy_80211.h
+kismet-2016-07-R1/kis_panel_preferences.h
+kismet-2016-07-R1/tcpserver.cc
+kismet-2016-07-R1/packetsource_bsdrt.h
+kismet-2016-07-R1/configure
+kismet-2016-07-R1/gpswrapper.h
+kismet-2016-07-R1/Makefile.inc.in
+kismet-2016-07-R1/util.cc
+kismet-2016-07-R1/plugin-btscan/
+kismet-2016-07-R1/plugin-btscan/packet_btscan.h
+kismet-2016-07-R1/plugin-btscan/tracker_btscan.cc
+kismet-2016-07-R1/plugin-btscan/btscan_ui.cc
+kismet-2016-07-R1/plugin-btscan/Makefile
+kismet-2016-07-R1/plugin-btscan/dumpfile_btscantxt.h
+kismet-2016-07-R1/plugin-btscan/packetsource_linuxbt.cc
+kismet-2016-07-R1/plugin-btscan/kismet_btscan.cc
+kismet-2016-07-R1/plugin-btscan/dumpfile_btscantxt.cc
+kismet-2016-07-R1/plugin-btscan/packetsource_linuxbt.h
+kismet-2016-07-R1/plugin-btscan/tracker_btscan.h
+kismet-2016-07-R1/plugin-btscan/README
+kismet-2016-07-R1/kis_panel_plugin.h
+kismet-2016-07-R1/packetsource_airpcap.cc
+kismet-2016-07-R1/packetchain.h
+kismet-2016-07-R1/gpsfixed.cc
+kismet-2016-07-R1/dumpfile_string.h
+kismet-2016-07-R1/kis_panel_widgets.cc
+kismet-2016-07-R1/dumpfile_gpsxml.cc
+kismet-2016-07-R1/ifcontrol.h
+kismet-2016-07-R1/.gitignore
+kismet-2016-07-R1/version.h
+kismet-2016-07-R1/kismet_capture.cc
+kismet-2016-07-R1/restricted-plugin-autowep/
+kismet-2016-07-R1/restricted-plugin-autowep/Makefile
+kismet-2016-07-R1/restricted-plugin-autowep/autowep-kismet.cc
+kismet-2016-07-R1/restricted-plugin-autowep/README
+kismet-2016-07-R1/soundcontrol.cc
+kismet-2016-07-R1/psutils.h
+kismet-2016-07-R1/kis_netframe.h
+kismet-2016-07-R1/phy_80211.cc
+checking build system type... aarch64-unknown-linux-gnu
+checking host system type... aarch64-unknown-linux-gnu
+checking for gcc... gcc
+checking whether the C compiler works... yes
+checking for C compiler default output file name... a.out
+checking for suffix of executables... 
+checking whether we are cross compiling... no
+checking for suffix of object files... o
+checking whether we are using the GNU C compiler... yes
+checking whether gcc accepts -g... yes
+checking for gcc option to accept ISO C89... none needed
+checking for g++... g++
+checking whether we are using the GNU C++ compiler... yes
+checking whether g++ accepts -g... yes
+checking for a BSD-compatible install... /usr/bin/install -c
+checking whether make sets $(MAKE)... yes
+checking how to run the C preprocessor... gcc -E
+checking for platform-specific compiler flags... none needed
+checking for grep that handles long lines and -e... /usr/bin/grep
+checking for egrep... /usr/bin/grep -E
+checking for ANSI C header files... yes
+checking for sys/types.h... yes
+checking for sys/stat.h... yes
+checking for stdlib.h... yes
+checking for string.h... yes
+checking for memory.h... yes
+checking for strings.h... yes
+checking for inttypes.h... yes
+checking for stdint.h... yes
+checking for unistd.h... yes
+checking whether byte ordering is bigendian... no
+checking errno.h usability... yes
+checking errno.h presence... yes
+checking for errno.h... yes
+checking for stdlib.h... (cached) yes
+checking for string.h... (cached) yes
+checking sys/socket.h usability... yes
+checking sys/socket.h presence... yes
+checking for sys/socket.h... yes
+checking sys/time.h usability... yes
+checking sys/time.h presence... yes
+checking for sys/time.h... yes
+checking sys/wait.h usability... yes
+checking sys/wait.h presence... yes
+checking for sys/wait.h... yes
+checking for unistd.h... (cached) yes
+checking for sys/types.h... (cached) yes
+checking netdb.h usability... yes
+checking netdb.h presence... yes
+checking for netdb.h... yes
+checking getopt.h usability... yes
+checking getopt.h presence... yes
+checking for getopt.h... yes
+checking for an ANSI C-conforming const... yes
+checking whether time.h and sys/time.h may both be included... yes
+checking whether struct tm is in sys/time.h or time.h... time.h
+checking for ANSI C header files... (cached) yes
+checking return type of signal handlers... void
+checking whether lstat correctly handles trailing slash... yes
+checking whether stat accepts an empty string... no
+checking for gettimeofday... yes
+checking for memset... yes
+checking for select... yes
+checking for socket... yes
+checking for strcasecmp... yes
+checking for strftime... yes
+checking for strstr... yes
+checking for system-level getopt_long()... yes
+checking for stdint.h... (cached) yes
+checking for accept() addrlen type... socklen_t
+checking for special C compiler options needed for large files... no
+checking for _FILE_OFFSET_BITS value needed for large files... no
+checking for dlopen in -ldl... yes
+checking for the pthreads library -lpthreads... no
+checking whether pthreads work without any flags... yes
+checking for joinable pthread attribute... PTHREAD_CREATE_JOINABLE
+checking if more special flags are required for pthreads... no
+checking for PTHREAD_PRIO_INHERIT... yes
+checking for libm math function in std libs... no
+checking for pow in -lm... yes
+checking for main in -luClibc++... no
+checking for main in -lstdc++... yes
+checking for group 'root'... yes
+checking for group 'man'... checking for initscr in -lncurses... yes
+checking for library containing stdscr... -ltinfo
+checking ncurses.h usability... yes
+checking ncurses.h presence... yes
+checking for ncurses.h... yes
+checking for new_panel in -lpanel... yes
+checking panel.h usability... yes
+checking panel.h presence... yes
+checking for panel.h... yes
+checking for setproctitle... no
+checking libutil.h usability... no
+checking libutil.h presence... no
+checking for libutil.h... no
+checking for setproctitle in -lutil... no
+checking sys/pstat.h usability... no
+checking sys/pstat.h presence... no
+checking for sys/pstat.h... no
+checking whether __progname and __progname_full are available... yes
+checking which argv replacement method to use... writeable
+checking for linux/wireless.h... yes
+checking that linux/wireless.h is what we expect... yes
+checking can we use iw_freq.flags... yes
+checking for cap_init in -lcap... no
+checking sys/prctl.h usability... yes
+checking sys/prctl.h presence... yes
+checking for sys/prctl.h... yes
+checking sys/capability.h usability... no
+checking sys/capability.h presence... no
+checking for sys/capability.h... no
+checking for pcre_compile in -lpcre... yes
+checking pcre.h usability... yes
+checking pcre.h presence... yes
+checking for pcre.h... yes
+checking for pcap_open_live in -lpcap... yes
+checking pcap.h usability... yes
+checking pcap.h presence... yes
+checking for pcap.h... yes
+checking for pcap_setnonblock in -lpcap... yes
+checking for pcap_get_selectable_fd in -lpcap... yes
+checking for PPI support in libpcap... yes
+checking for pkg-config... yes
+checking for pkg-config... /usr/bin/pkg-config
+checking pkg-config is at least version 0.9.0... yes
+checking for libnl30... yes
+checking for libnlgenl30... yes
+checking for libnl20... no
+checking for libnl1... no
+checking For mac80211 support in netlink library... yes
+configure: creating ./config.status
+config.status: creating Makefile
+config.status: creating Makefile.inc
+config.status: creating scripts/kismet
+config.status: creating conf/kismet.conf
+config.status: creating config.h
+config.status: config.h is unchanged
+
+Configuration complete: 
+         Compiling for: linux-gnu (aarch64)
+           C++ Library: stdc++
+   Installing as group: root
+    Man pages owned by: man
+       Installing into: /usr/local
+          Setuid group: kismet
+      Terminal Control: ncurses
+   Linux WEXT capture : yes
+   OSX/Darwin capture : n/a (only OSX/Darwin)
+   PCRE Regex Filters : yes
+          pcap capture: yes
+       airpcap control: n/a (only Cygwin/Win32)
+        PPI log format: yes
+LibCapability (enhanced
+   privilege dropping): no
+         Linux Netlink: yes (mac80211 VAP creation) - libnl-3.0 libnl-genl-3.0
+
+Configuration complete.  Run 'make dep' to generate dependencies
+and 'make' followed by 'make install' to compile and install.
+
+*** WARNING ***
+In some situations, libpcap links to libnl.  If Kismet finds a newer 
+libnl, it can cause an immediate segfault when starting Kismet. 
+
+It is very hard to test at compile time (and run-time changes can 
+cause it to break).  If you experience immediate segfaults when 
+trying to start kismet_server, check your libpcap.so with 'ldd'
+and either install a libpcap which does not link libnl1, or 
+force Kismet to compile with a degraded libnl via 
+./configure --with-netlink-version=1
+
+Generating dependencies... 
+make[1]: Entering directory '/usr/share/fruitywifi/www/modules/kismet/includes/tmp-install/kismet-2016-07-R1'
+make[2]: Entering directory '/usr/share/fruitywifi/www/modules/kismet/includes/tmp-install/kismet-2016-07-R1'
+make[2]: '.depend' is up to date.
+make[2]: Leaving directory '/usr/share/fruitywifi/www/modules/kismet/includes/tmp-install/kismet-2016-07-R1'
+make[1]: Leaving directory '/usr/share/fruitywifi/www/modules/kismet/includes/tmp-install/kismet-2016-07-R1'
+g++ -I/usr/include/ncurses -I/usr/include/libnl3  -Wall -g -O2 -c ipc_remote.cc -o ipc_remote.o 
+g++ -I/usr/include/ncurses -I/usr/include/libnl3  -Wall -g -O2 -c ipc_remote.cc -o ipc_remote.o 
+
+installing GISKismet...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+libxml-libxml-perl is already the newest version (2.0207+dfsg+really+2.0134-1+b1).
+The following package was automatically installed and is no longer required:
+  libcamera0.1
+Use 'sudo apt autoremove' to remove it.
+0 upgraded, 0 newly installed, 0 to remove and 1 not upgraded.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+libdbi-perl is already the newest version (1.643-4).
+The following package was automatically installed and is no longer required:
+  libcamera0.1
+Use 'sudo apt autoremove' to remove it.
+0 upgraded, 0 newly installed, 0 to remove and 1 not upgraded.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+libdbd-sqlite3-perl is already the newest version (1.72-1).
+The following package was automatically installed and is no longer required:
+  libcamera0.1
+Use 'sudo apt autoremove' to remove it.
+0 upgraded, 0 newly installed, 0 to remove and 1 not upgraded.
+Archive:  giskismet-master.zip
+9ebe9d026f0112096ace24fe14c2f22dbffe67bb
+Generating a Unix-style Makefile
+Writing Makefile for giskismet
+Writing MYMETA.yml and MYMETA.json
+cp giskismet blib/script/giskismet
+"/usr/bin/perl" -MExtUtils::MY -e 'MY->fixin(shift)' -- blib/script/giskismet
+Manifying 1 pod document
+Manifying 1 pod document
+Appending installation info to /usr/local/lib/aarch64-linux-gnu/perl/5.36.0/perllocal.pod
+
+installing gpsd...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+gpsd is already the newest version (3.22-4.1+b1).
+The following package was automatically installed and is no longer required:
+  libcamera0.1
+Use 'sudo apt autoremove' to remove it.
+0 upgraded, 0 newly installed, 0 to remove and 1 not upgraded.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+gpsd-clients is already the newest version (3.22-4.1+b1).
+The following package was automatically installed and is no longer required:
+  libcamera0.1
+Use 'sudo apt autoremove' to remove it.
+0 upgraded, 0 newly installed, 0 to remove and 1 not upgraded.
+
+..DONE..

@@ -1,0 +1,25 @@
+kismet (2016.07.1) unstable; urgency=low
+
+  * 2016.07.R1 release
+
+kismet (2016.01.1) unstable; urgency=low
+
+  * 2016.01.R1 release
+
+kismet (2014.02.1) unstable; urgency=low
+
+  * 2014.02.R1 release
+
+ -- Kismet Release <kismet-release@kismetwireless.net>  Tue, 18 Feb 2014 19:00:00 -0500
+
+kismet (2013.03.1) unstable; urgency=low
+
+  * 2013.03.R1 release
+
+ -- Kismet Release <kismet-release@kismetwireless.net>  Mon, 18 Mar 2013 19:00:00 -0500
+
+kismet (2013.0.0) unstable; urgency=low
+
+  * Git build.
+
+ -- Kismet Release <kismet-release@kismetwireless.net>  Mon, 31 Dec 2012 19:29:12 +0100
